@@ -1,4 +1,4 @@
-# TrainingReact
+# Oauth2 InMemory Example
 
 	Step 1: Import and install project
 
